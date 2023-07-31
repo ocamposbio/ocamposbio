@@ -7,6 +7,7 @@ Stacks:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 <h1>Github Stats</h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **ocamposbio/ocamposbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
