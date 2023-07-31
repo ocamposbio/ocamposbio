@@ -1,4 +1,4 @@
-<h1>Principais Stacks: </h1>
+<h1>Tech Stacks: </h1>
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
