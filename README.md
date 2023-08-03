@@ -8,7 +8,7 @@
   
   <p></p>
   
- <a href=" ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) "https://br.linkedin.com/in/otavio-augusto-campos >
+ <a href=https://br.linkedin.com/in/otavio-augusto-campos> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 <h1>Here are some Tech Skills that i have :) </h1>
 
