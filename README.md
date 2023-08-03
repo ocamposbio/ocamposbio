@@ -1,25 +1,9 @@
-<!--
-**ocamposbio/ocamposbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1>Hey, wellcome!</h1>
 
-<p>
-  - 🔭 I’m currently working on Swift projects with cloud and iot integration.
-  - 🌱 I’m currently learning SwiftUI
-  - 📫 How to reach me: 
-  
+<p> - 🔭 I’m currently working on Swift projects with cloud and iot integration. </p>
+<p>- 🌱 I’m currently learning SwiftUI</p>
+<p>- 📫 How to reach me: </p>
+ 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : otavioc889@gmail.com
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : otavio-augusto-campos
 
