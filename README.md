@@ -10,6 +10,8 @@
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : otavio-augusto-campos
 
+<h1>Here are some Tech Skills that i have :) </h1>
+
 <h1>DBs: </h1>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
