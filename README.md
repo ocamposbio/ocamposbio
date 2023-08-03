@@ -5,6 +5,9 @@
 <p>- 📫 How to reach me: </p>
  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : otavioc889@gmail.com
+  
+  <p></p>
+  
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : otavio-augusto-campos
 
 <h1>DBs: </h1>
