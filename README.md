@@ -69,5 +69,5 @@
   <img height=200 align="center" src="https://github-readme-stats-sigma.vercel.app/api?username=ocamposbio" />
 </a>
 <a href="https://github.com/ocamposbio">
-  <img height=200 align="center" src="https://github-readme-stats-sigma.vercel.app/api/top-langs?username=ocamposbio&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ocamposbio&layout=compact&langs_count=8&card_width=320" />
 </a>
