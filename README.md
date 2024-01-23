@@ -1,6 +1,7 @@
 <h1>Hey, wellcome!</h1>
 
 <p> - 🔭 I’m currently working on Python & Django projects (work & personal related) </p>
+<p> - Past projects: [DiviD] - Application made with swift to finish the HackaTruck course </p>
 <p>- 📫 How to reach me: </p>
  
   <a href= "mailto:otavioc889@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
