@@ -1,6 +1,7 @@
 <h1>Hey, wellcome!</h1>
 
-<p> - 🔭 I’m currently working on Python & Django projects (work & personal related) </p>
+<p> - 🔭 I’m currently working on Django projects (work & personal related) </p>
+<p> - Learning DataScience + Machine Learning</p>
 <p> - Past projects: [DiviD] - Application made with swift to finish the HackaTruck course </p>
 <p>- 📫 How to reach me: </p>
  
